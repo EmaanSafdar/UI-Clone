@@ -1,0 +1,147 @@
+body{
+    background-color: #eed395;
+    overflow: hidden;
+    
+}
+.main{
+    position :relative;
+    top:150px;
+    left:320px;
+    background-color: antiquewhite;
+    width:700px;
+    height:450px;
+    border-radius:20px;
+    
+}
+.img{
+    position:relative;
+    left:400px;
+    top:100px;
+    width:250px;
+}
+.logo{
+    position: relative;
+    bottom:180px;
+    left:60px;
+    
+}
+.h-text{
+    position: relative;
+    bottom:220px;
+    left:85px;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+.hosterr{
+    padding: 3px 8px;
+    background: linear-gradient(to right, #eaaa54, #ea5872);
+    border: none;
+    outline: none;
+    color: #ffffff;
+    font-family: "Playfair Display", sans-serif;
+    
+    border-radius: 20px;
+    cursor: pointer;
+    position:relative;
+    bottom: 260px;
+    left:142px;
+    font-size: 9px;  
+}
+li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    bottom:260px;
+    left:200px;
+    margin-left: 12px;
+    font-size: 12px;
+    
+}
+.sign-in{
+    margin-left:50px ;
+}
+.wallet{
+background-color: rgb(73, 91, 205);
+border-radius: 3px;
+border-style: none;
+padding:6px 6px;
+position: relative;
+bottom:260px;
+left:210px;
+font-size: small;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position:relative;
+    bottom:190px;
+    left:40px;
+}
+.text{
+    position:relative;
+    bottom:200px;
+    font-size: 12px;
+    left:40px;
+}
+input[type="email"] {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: inline-block; /* ensure it's visible */
+    position: relative;
+    bottom:200px;
+    left:40px;
+}
+.wallet2{
+    background-color: rgb(73, 91, 205);
+    border-radius: 3px;
+    border-style: none;
+    padding:10px;
+    position: relative;
+    bottom:200px;
+    left:40px;
+    font-size: small;  
+}
+
+.tick{
+    position: relative;
+    bottom:160px;
+    right:260px;
+    
+}
+.spam{
+    position: relative;
+    bottom:197px;
+    left:60px;
+    font-size: 11px;;
+}
+.bottom{
+    display: inline-block;
+    list-style: none;
+    font-size: 12px;
+    position: relative;
+    top:100px;
+    right:176px;
+}
+.question{
+    position: relative;
+    bottom:200px;
+    left:500px;
+    font-size: small;
+   
+}
+img.avator{
+border-radius: 50%;
+position: relative;
+left: 750px;
+bottom:-40px;
+width:60px;
+
+}
+
+
+
+
+
+
